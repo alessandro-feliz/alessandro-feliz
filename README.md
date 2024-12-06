@@ -3,22 +3,19 @@
 My name is Alessandro Santos and I'm a Software Engineer from Porto, Portugal.
 
 ## 📖 Some things about me
-- 🖥 Software Engineer since 2012 
-- 💼 Tech Lead at ![FUJIFILM]()
-- 🎓 Master's in Computer Science (2017) and Biomedical Engineer (2024) from Porto School of Engineering
+- 🖥 Into Software Engineering since 2012 
+- 💼 Tech Lead at [FUJIFILM](https://www.fujifilm.com/pt/en/healthcare)
+- 🎓 Master's in Computer Science (2017) from Porto School of Engineering
+- 🙈 Master's in Biomedical Engineer (2024) also from Porto School of Engineering
 - 🏀 Basketball Referee
+- 🏃 Occasional marathon runner
 
-<!--
-**alessandro-feliz/alessandro-feliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Where to find me
+
+
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alessandro-santos-136271ba/)
+&nbsp;
+[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/4358010/alessandro)
