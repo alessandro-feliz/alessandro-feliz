@@ -1,4 +1,12 @@
-## Hi there 👋
+## 👋 Hi there
+
+My name is Alessandro Santos and I'm a Software Engineer from Porto, Portugal.
+
+## 📖 Some things about me
+- 🖥 Software Engineer since 2012 
+- 💼 Tech Lead at ![FUJIFILM]()
+- 🎓 Master's in Computer Science (2017) and Biomedical Engineer (2024) from Porto School of Engineering
+- 🏀 Basketball Referee
 
 <!--
 **alessandro-feliz/alessandro-feliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
