@@ -1,0 +1,10 @@
+Instruções para deploy e execução:
+
+1 - Ligar a stack wamp (web e base de dados)
+2 - Aceder ao phpMyAdmin
+3 - Criar uma base de dados local chamada SATA
+4 - Executar scripts da pasta Base de Dados (2 ficheiros)
+5 - Criar pasta SATA na pasta www do wamp
+6 - Mover conteúdo da pasta Código\SATA para a pasta SATA (criada no passo 5)
+7 - Editar o ficheiro SATA\code\db_config.php e adcionar detalhes da base de dados
+8 - Aceder à aplicação web pelo browser, utilizando o URL http://localhost/sata/

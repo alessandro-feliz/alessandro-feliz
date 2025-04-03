@@ -1,0 +1,19 @@
+
+  Dataset MMU Images:
+
+> All rights of the MMU iris database are reserved.
+> Users are not permitted to distribute, publish, copy, or disseminate this database.
+> Please acknowledge MMU Iris Database in your paper and report.
+> Any inqueries please forward to ccteo@mmu.edu.my.
+
+###################################################
+
+  Dataset CASIA Images:
+
+> CASIA 1: http://www.cbsr.ia.ac.cn/IrisDatabase.htm 
+
+###################################################
+
+  Haar Cascade:
+
+> https://github.com/opencv/opencv/tree/master/data/haarcascades
