@@ -12,9 +12,34 @@ My name is Alessandro Santos and I'm a Software Engineer from Porto, Portugal.
 
 ## 🔧 Technologies & Tools
 
+### Backend  
+`C#` `PowerShell` `Python` `MATLAB` `PHP` `Java` `C++` `Node.js`
+
+### Frontend  
+`HTML` `CSS` `JavaScript` `WPF`
+
+### Database  
+`PostgreSQL` `SQL Server` `MongoDB`
+
+### Libraries  
+`OpenCV` `OpenBR` `OpenGL` `DirectShow`
+
+### Messaging  
+`RabbitMQ`
+
+### Communication  
+`JSON` `XML` `DICOM` `HL7` `FHIR`
+
+### Architectures  
+`Web Applications` `Desktop Applications` `Windows Services` `Web Services`
+
+### Version Control  
+`Git` `Azure DevOps`
+
+### Tools  
+`Visual Studio` `Jupyter Notebook` `Unity` `NetBeans`
 
 ## 🔍 Where to find me
-
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/alessandro-santos-136271ba/)
 &nbsp;
